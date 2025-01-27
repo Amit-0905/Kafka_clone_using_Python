@@ -31,7 +31,7 @@ Welcome to the **Kafka Clone** project! This is a lightweight, educational imple
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/kafka_clone_python.git
+git clone https://github.com/Amit-0905/kafka_clone_using_python.git
 cd kafka_clone_python
 pip install -r requirements.txt
 ```
