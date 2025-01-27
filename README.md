@@ -1,4 +1,3 @@
-Here's an attractive and engaging README template for your **Kafka Clone using Python** project that incorporates the elements you mentioned:
 
 ---
 
