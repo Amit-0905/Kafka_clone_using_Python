@@ -65,8 +65,8 @@ python consumer.py --topic your_topic
 ## 👤 About Me
 
 ```yaml
-name: Your Name
-pronouns: [he, him]
+name: Amit
+pronouns: He
 currently_working_on: "Kafka Clone Project"
 currently_learning: "Distributed Systems"
 looking_to_collaborate_on: "Open Source Projects"
